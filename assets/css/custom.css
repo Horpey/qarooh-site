@@ -1,6 +1,7 @@
 [class*="bg"] .navbar-nav .nav-item .nav-link:not(.btn) {
   color: black !important;
 }
+
 .btn {
   border-radius: 0px;
 }
