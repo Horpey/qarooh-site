@@ -1,0 +1,100 @@
+[class*="bg"] .navbar-nav .nav-item .nav-link:not(.btn) {
+  color: black !important;
+}
+.btn {
+  border-radius: 0px;
+}
+.btn-default {
+  background-color: black !important;
+  border-color: black;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p.text-black {
+  color: black !important;
+}
+.sectionhead {
+  background: linear-gradient(#00000054, #00000054),
+    url(../img/custom/selective-focus-photography-of-yellow-sedan-1310781.jpg) !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+  background-position: center !important;
+  height: 100vh;
+}
+.featurr {
+  background-color: black;
+  color: white;
+  padding: 40px;
+  margin-top: 45px;
+}
+.img-neg {
+  margin-left: -67px;
+}
+.watchvidsection {
+  background: linear-gradient(#00000054, #00000054),
+    url(../img/custom/watchvid.jpeg) !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+  background-position: center !important;
+  margin-top: 100px;
+}
+.watchvid {
+  text-align: center;
+  color: white !important;
+  padding: 200px 0px;
+  margin: 0px 0px 0px 0px;
+}
+.watchvid h1 {
+  font-weight: bold;
+  font-size: 90px;
+  margin-bottom: 10px;
+}
+.watchvid a {
+  color: white;
+  font-size: 40px;
+  border-bottom: 2px solid;
+}
+.statssection {
+  background: linear-gradient(#00000054, #00000054),
+    url(../img/custom/taxi-bus-city-urban-584392.jpeg) !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+  background-position: center !important;
+}
+.statsdiv {
+  text-align: center;
+  color: white !important;
+  padding: 60px 0px;
+  margin: 0px 0px 70px 0px;
+}
+.imprehead {
+  font-size: 92px;
+}
+.carousel-inner > .carousel-item > img,
+.carousel-inner > .carousel-item > a > img {
+  border-radius: 0px !important;
+  box-shadow: 0px 0px !important;
+}
+.bootomlink a {
+  color: black;
+  margin-left: 20px;
+  letter-spacing: 2px;
+}
+.contactsection {
+  background-color: #1db483;
+  padding: 100px 0px;
+  margin: 60px 0px 0px 0px;
+}
+.btn-white {
+  background: white !important;
+  color: black !important;
+  border-color: white !important;
+}
+.navbar-transparent .navbar-brand,
+[class*="bg"] .navbar-brand {
+  color: black !important;
+}
