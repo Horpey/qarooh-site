@@ -7,7 +7,7 @@
 }
 .btn-default {
   background-color: black !important;
-  border-color: black;
+  border-color: black !important;
 }
 h1,
 h2,
@@ -15,9 +15,11 @@ h3,
 h4,
 h5,
 h6,
-p.text-black {
+p.text-black,
+a.text-black {
   color: black !important;
 }
+
 .sectionhead {
   background: linear-gradient(#00000054, #00000054),
     url(../img/custom/selective-focus-photography-of-yellow-sedan-1310781.jpg) !important;
@@ -98,4 +100,41 @@ p.text-black {
 .navbar-transparent .navbar-brand,
 [class*="bg"] .navbar-brand {
   color: black !important;
+}
+.dropdown-menu .dropdown-item {
+  color: #000000 !important;
+}
+.dropdown-menu .dropdown-item:first-child {
+  border-top-left-radius: 0px !important;
+  border-top-right-radius: 0px !important;
+}
+.dropdown-menu .dropdown-item:last-child {
+  border-bottom-left-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+}
+.navbar .navbar-nav .dropdown-menu {
+  border-radius: 0px !important;
+}
+.dropdown-menu.dropdown-info .dropdown-item:hover,
+.dropdown-menu.dropdown-info .dropdown-item:focus {
+  color: white !important;
+  background-color: black !important;
+}
+.whyli {
+  margin-top: 20px;
+}
+.whyli li {
+  margin-bottom: 6px;
+  color: black;
+}
+.adprodusection {
+  background: linear-gradient(#00000054, #00000054),
+    url(../img/custom/nicola-tolin-bKx2zZUvv9k-unsplash.png) !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+  background-position: center !important;
+  height: 80vh;
+}
+.blogrow div.col-md-4 {
+  margin-bottom: 80px;
 }

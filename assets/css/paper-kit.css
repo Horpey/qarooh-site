@@ -3044,6 +3044,7 @@ td,
 button,
 input,
 select,
+li,
 textarea {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
