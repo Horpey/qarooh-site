@@ -26,7 +26,7 @@ a.text-black {
   background-size: cover !important;
   background-attachment: fixed !important;
   background-position: center !important;
-  height: 100vh;
+  height: 84vh;
 }
 .featurr {
   background-color: black;
@@ -137,4 +137,12 @@ a.text-black {
 }
 .blogrow div.col-md-4 {
   margin-bottom: 80px;
+}
+.brandsimg {
+  text-align: center;
+  padding-top: 18px;
+}
+.brandsimg img {
+  height: 54px;
+  margin-right: 40px;
 }
