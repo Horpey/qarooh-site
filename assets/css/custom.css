@@ -129,7 +129,15 @@ a.text-black {
 }
 .adprodusection {
   background: linear-gradient(#00000054, #00000054),
-    url(../img/custom/nicola-tolin-bKx2zZUvv9k-unsplash.png) !important;
+    url(../img/custom/Lagos.png) !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+  background-position: center !important;
+  height: 80vh;
+}
+.adprodusectionn {
+  background: linear-gradient(#00000054, #00000054),
+    url(../img/custom/Abuja.png) !important;
   background-size: cover !important;
   background-attachment: fixed !important;
   background-position: center !important;
@@ -143,6 +151,9 @@ a.text-black {
   padding-top: 18px;
 }
 .brandsimg img {
-  height: 54px;
-  margin-right: 40px;
+  height: 32px;
+  margin-right: 100px;
+}
+.whyTaxiSlide.slick-slide {
+  display: flex !important;
 }
